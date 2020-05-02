@@ -1,0 +1,31 @@
+_repo: The-Mythology-of-Greece-and-Rome-With-Special-Reference-to-Its-Use-in-Art_61901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seemann, Otto
+    birthdate: 1825
+    deathdate: 1901
+    gutenberg_agent_id: '51667'
+    url: http://www.gutenberg.org/2009/agents/51667
+  editor:
+    agent_name: Bianchi, G. H. (George Henry)
+    alias: Bianchi, George Henry
+    gutenberg_agent_id: '51668'
+    url: http://www.gutenberg.org/2009/agents/51668
+description: ''
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art, Greek'
+- !lcsh 'Mythology, Classical'
+- !lcsh 'Art, Roman'
+- !lcc 'BL'
+- GITenberg
+title: The Mythology of Greece and Rome, With Special Reference to Its Use in Art
+url: http://www.gutenberg.org/ebooks/61901
